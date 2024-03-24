@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace Btl_Ltw_De17_khaoSatTrucTuyen.trangChu
 {
-    public partial class trangChu : System.Web.UI.Page
+    public partial class trangChu1 : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
